@@ -11,8 +11,6 @@ This project uses the following datasets:
    Citation:  
    "Dakshina: A Multilingual Dataset for Transliteration." Google Research.  
    Available at: [https://github.com/google-research-datasets/dakshina](https://github.com/google-research-datasets/dakshina)
-
-2. ENG to TEL 
    Citation:  
    @inproceedings{roark-etal-2020-processing,
     title = "Processing {South} {Asian} Languages Written in the {Latin} Script:
